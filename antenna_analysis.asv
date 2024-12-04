@@ -1,0 +1,24 @@
+%{
+antenna_analysis.m
+Brian Glen
+12/4/24
+%}
+
+%% Define Antenna Parameters
+a = 0.1; % antenna radius
+lambda = 0.6; % wavelength
+length = 1.8 * lambda; % length of antenna
+gap_voltage = 125; % time harmonic gap voltage
+
+
+% Magnetic frill generator implementation
+
+%% Pocklington's Equation and Analysis
+
+
+%% Hallen's Equation and Analysis
+
+%% Calculate Radiated Power
+
+%% Radiation Pattern
+
